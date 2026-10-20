@@ -1,5 +1,8 @@
 # syspro unix shell clone
 
+## Assignment Description
+Implementation of a Unix shell in C with support for I/O redirections, pipes, aliases and command history<br>
+
 ## Compiling and Running the program :
 
 1) Type `make`
